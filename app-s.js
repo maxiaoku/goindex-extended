@@ -5583,7 +5583,6 @@ function init() {
   if (UI.credits) {
     html += `
     <div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
-      <a href="/" target="_blank">
       </a>
     </div>
     </div>
